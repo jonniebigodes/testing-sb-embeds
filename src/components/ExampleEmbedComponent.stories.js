@@ -3,7 +3,7 @@ import { ExampleEmbedComponent } from "./ExampleEmbedComponent";
 export default {
   title: "ExampleEmbedComponent",
   component: ExampleEmbedComponent,
-  tags: ["autodocs"],
+  //tags: ["autodocs"],
 };
 
 export const Starter = {};
